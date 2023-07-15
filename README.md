@@ -1,1 +1,1 @@
-# Miuul-Makine-renmesi-Yaz-Kamp-
+# Miuul-Makine-Öğrenmesi-Yaz-Kamp-
