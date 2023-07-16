@@ -1,1 +1,1 @@
-# Miuul-Makine-Öğrenmesi-Yaz-Kamp-
+# Miuul Machine Learning Summer Camp
